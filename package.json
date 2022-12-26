@@ -1,7 +1,7 @@
 {
   "name": "template-ts-vite",
   "version": "1.0.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "Tower Defense game written by AI",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -19,7 +19,7 @@
     "vite",
     "game-engine"
   ],
-  "author": "Erik Onarheim",
+  "author": "Henry Vance",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/excaliburjs/template-ts-vite/issues"
